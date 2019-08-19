@@ -6,4 +6,4 @@
 
 # Available for download at:
 
-# https://drive.google.com/open?id=1MuLO6ngd7xDKlsSC59h-vFJfKrqJfeBx
+# https://drive.google.com/file/d/1MuLO6ngd7xDKlsSC59h-vFJfKrqJfeBx/view?usp=sharing
